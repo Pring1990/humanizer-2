@@ -27,8 +27,12 @@ It also treats your draft as text to edit. If the draft contains instructions ai
 
 **Claude desktop app or claude.ai**
 
-1. Click the green **Code** button on this page and choose **Download ZIP**.
-2. In Claude, open Settings and upload the ZIP as a skill.
+1. Click `SKILL.md` in the file list above, then click the download button at the top right of the file.
+2. In Claude, go to **Customize > Skills** and choose to upload a skill.
+3. Drag the `SKILL.md` file you downloaded onto the upload box and click **Upload**.
+4. Make sure the skill is turned on in the list.
+
+You only need that one file. Do not use GitHub's **Download ZIP** button, which downloads the whole repository.
 
 **Claude Code**
 
@@ -60,3 +64,6 @@ This skill is for making writing clearer and more like you. It is not built to g
 
 MIT. Use it, change it and share it.
 
+## Licence
+
+MIT. Use it, change it and share it.
